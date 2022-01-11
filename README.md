@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orcatortugs
 - 👀 I’m interested in aeronautics and anything related to aviation
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning data structures and advanced programming
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me contact @ alphacomputer47@gmail.com
 
